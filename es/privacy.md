@@ -7,7 +7,7 @@ lang: es
 
 *Esta es una traducción. Si difiere de la [versión en inglés](../privacy), prevalece la versión en inglés.*
 
-Fecha de entrada en vigor: 2026-10-31
+Fecha de entrada en vigor: 2026-11-01
 
 Esta política explica cómo Vape Tracker: Quit Vaping (que aparece como «Sin Fumar» en su pantalla de inicio, la «App»), creada por Stanislau Malchanau («nosotros»), trata su información. En resumen: **no recopilamos, vendemos ni compartimos sus datos personales. Su camino para dejarlo permanece en su dispositivo y en su propia cuenta de iCloud.**
 
@@ -45,7 +45,7 @@ Apple vende y gestiona las suscripciones a través del App Store. No recibimos s
 
 ## 8. Estadísticas de uso e informes de fallos
 
-Para saber qué funciones ayudan y dónde estorba la App, la App envía señales de uso anónimas a TelemetryDeck, un servicio de análisis de TelemetryDeck GmbH (Augsburgo, Alemania) con servidores en la UE. Una señal nombra una acción en la App: por ejemplo, que se completó un paso del primer inicio, que se superaron unas ganas respirando, que se mostró la pantalla de suscripción o comenzó una suscripción, o que la App pidió una valoración. Va acompañada de una marca de tiempo redondeada a la hora y de datos técnicos generales: las versiones de la App y de iOS, el modelo del dispositivo, el idioma, la región y la zona horaria, y ajustes de pantalla y accesibilidad como el modo oscuro o el tamaño del texto. Cuando comienza una suscripción, su señal incluye también el plan, su precio convertido a dólares estadounidenses, la moneda y el país de su App Store, para que podamos ver qué planes se eligen.
+Para saber qué funciones ayudan y dónde estorba la App, la App envía señales de uso anónimas a TelemetryDeck, un servicio de análisis de TelemetryDeck GmbH (Augsburgo, Alemania) con servidores en la UE. Una señal nombra una acción en la App: por ejemplo, que se completó un paso del primer inicio, que se superaron unas ganas respirando, que se mostró la pantalla de suscripción o una suscripción comenzó o se renovó, que la App pidió una valoración o, como un breve código de error, que algo no funcionó, por ejemplo que el App Store no respondió. Va acompañada de una marca de tiempo redondeada a la hora y de datos técnicos generales: las versiones de la App y de iOS, el modelo del dispositivo, el idioma, la región y la zona horaria, y ajustes de pantalla y accesibilidad como el modo oscuro o el tamaño del texto. Cuando una suscripción comienza o se renueva, su señal incluye también el plan, su precio convertido a dólares estadounidenses, la moneda y el país de su App Store, para que podamos ver qué planes se eligen.
 
 Una señal nunca contiene lo que está dejando, cuánto consumía o gastaba, su fecha para dejarlo, sus ganas, sus deslices o sus motivos, ningún texto que escriba, su nombre, su correo electrónico, su cuenta de Apple ni su ubicación. Su instalación solo se identifica con un identificador aleatorio que la App sala y cifra con hash antes de enviarlo, de modo que las señales no pueden vincularse a usted ni seguirse entre apps. TelemetryDeck no guarda direcciones IP ni usa cookies. Solo miramos estas señales como estadísticas para mejorar la App; no las vendemos, no las compartimos con anunciantes ni las usamos para rastrearle. La App no contiene código publicitario ni de rastreo y no le rastrea en otras apps ni sitios web.
 

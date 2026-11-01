@@ -4,7 +4,7 @@ title: Quit Vaping Privacy Policy
 
 # Vape Tracker: Quit Vaping Privacy Policy
 
-Effective date: 2026-10-31
+Effective date: 2026-11-01
 
 This policy explains how Vape Tracker: Quit Vaping (shown as "Quit Vaping" on your Home
 Screen, the "App"), made by Stanislau Malchanau ("we", "us"), handles your information.
@@ -80,12 +80,13 @@ To learn which features help and where the App gets in the way, the App sends an
 usage signals to TelemetryDeck, an analytics service of TelemetryDeck GmbH (Augsburg,
 Germany) with servers in the EU. A signal names an action in the App: for example, that a
 step of the first launch was finished, that a craving was breathed through, that the
-subscription screen was shown or a subscription started, or that the App asked for a
-rating. It comes with a timestamp rounded to the hour and general technical details: the
+subscription screen was shown or a subscription started or renewed, that the App asked for
+a rating, or, as a short error code, that something did not work, such as the App Store not
+answering. It comes with a timestamp rounded to the hour and general technical details: the
 App and iOS versions, the device model, the language, region and time zone, and display and
-accessibility settings such as dark mode or text size. When a subscription starts, its
-signal also carries the plan, its price converted to US dollars, the currency and the
-country of your App Store, so that we can see which plans people choose.
+accessibility settings such as dark mode or text size. When a subscription starts or
+renews, its signal also carries the plan, its price converted to US dollars, the currency
+and the country of your App Store, so that we can see which plans people choose.
 
 A signal never contains what you are quitting, how much you used or spent, your quit date,
 your cravings, slips or their reasons, any text you enter, your name, email address, Apple
